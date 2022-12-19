@@ -91,7 +91,6 @@ const Home = () => {
                 </div>
               </div>
             </div>
-//             <ReviewsMarqueue />
             <Footer />
           </div>
       }
